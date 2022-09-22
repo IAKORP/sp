@@ -10551,6 +10551,8 @@
                             { label: "Mangadex", value: "https://mangadex.org" },
                             { label: "Comick", value: "https://comick.fun" },
                             { label: "Manhua", value: "https://manhuaplus.com" },
+                            { label: "Manga4life", value: "https://manga4life.com" },
+                            { label: "Mangasee", value: "https://mangasee123.com" },
                         ],
                     },
                     {
@@ -10569,6 +10571,7 @@
                             { label: "Gitlab", value: "https://gitlab.com" },
                             { label: "Codeberg", value: "https://codeberg.org" },
                             { label: "Bitbucket", value: "https://bitbucket.org" },
+                            { label: "Codegiant", value: "https://codegiant.io" }
                         ],
                     },
                     {
